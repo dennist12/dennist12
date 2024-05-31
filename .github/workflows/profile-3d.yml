@@ -13,10 +13,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
           USERNAME: ${{ env.USERNAME }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push SVGs to the output-3d branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}

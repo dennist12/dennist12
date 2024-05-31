@@ -10,9 +10,9 @@
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/dennist12/dennist12/output-3d-contrib/profile-night-rainbow.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dennist12/dennist12/output-3d-contrib/profile-season-animate.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/dennist12/dennist12/output-3d-contrib/profile-season-animate.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/dennist12/dennist12/output-3d-contrib/nigth.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dennist12/dennist12/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/dennist12/dennist12/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 

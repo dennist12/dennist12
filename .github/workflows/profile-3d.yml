@@ -22,7 +22,7 @@ jobs:
       - name: push SVGs to the output-3d branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output-3d-contrib
+          target_branch: main
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

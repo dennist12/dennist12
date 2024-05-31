@@ -3,6 +3,9 @@ name: GitHub-Profile-3D-Contrib
 on:
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest

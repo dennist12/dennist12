@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **Appointment Project** <br> 💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on the **Appointment Project** <br> 💬 Ask me about<br>⚡ Fun fact
 
 # 💻 Tech Stack:
 

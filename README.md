@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dennist12&color=blue)
+
 ### Hi there 👋
 
 # 💫 About Me:

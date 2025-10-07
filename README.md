@@ -8,10 +8,14 @@
 <center>
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=2000&color=4488F7&center=true&vCenter=true&random=false&width=900&height=100&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares.)](https://git.io/typing-svg)
-	
+
+<img alt="github profile contributions chart"  style="width: 100%"    src="https://raw.githubusercontent.com/dennist12/dennist12/snake/github-contribution-grid-snake-dark.svg" />
 </center>
 
+
+
 # 📊 GitHub Stats:
+
 
 <p align="center" >
 	<picture>

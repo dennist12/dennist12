@@ -28,7 +28,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dennist12&theme=onedark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennist12&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=dennist12&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=dennist12&theme=onedark&hide_border=true&include_all_commits=true)
+ 
 
 </p>
 
